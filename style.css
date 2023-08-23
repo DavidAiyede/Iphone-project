@@ -155,7 +155,7 @@ img {
     flex-direction: column;
     height: 75vh;
     width: 80%;
-    margin-top: -30%;
+    margin-top: -20%;
   }
   .text {
     width: 300px;
@@ -170,6 +170,6 @@ img {
     margin-top: -27%;
   }
   .text{
-    margin-top: -20%;
+    margin-top: -10%;
   }
 }
