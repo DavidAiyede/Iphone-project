@@ -156,14 +156,15 @@ img {
     height: 75vh;
     width: 80%;
     margin-top: -20%;
+    border: none;
   }
   .text {
     width: 300px;
     justify-content: center;
+    margin-top: -30%;
   }
   .input- {
     display: flex;
-    flex-direction: column;
   }
   img {
     width: 400px;
