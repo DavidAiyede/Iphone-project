@@ -82,6 +82,7 @@ img {
   justify-content: center;
   position: absolute;
   visibility: hidden;
+  margin-bottom: -100%;
 }
 
 .open-popup{
